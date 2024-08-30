@@ -672,13 +672,6 @@ KEYFRAMES ANIMATION
     }
 }
 @media (max-width: 365px) {
-    .home {
-        width: auto;
-    }
-    
-    .home-content {
-        
-    }
     .home-content p {
         width: 70%;
     }
