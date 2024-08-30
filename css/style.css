@@ -549,7 +549,7 @@ KEYFRAMES ANIMATION
 
 @media (max-width: 768px) {
     section {
-        padding: 7rem ;
+        padding: 3rem ;
     }    
     .home-content h1 {
         font-size: 5.2rem;
@@ -673,7 +673,7 @@ KEYFRAMES ANIMATION
 }
 @media (max-width: 365px) {
     .home-content p {
-        width: 70%;
+        width: 80%;
     }
     .social-icons {
         width: 320px;
