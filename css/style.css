@@ -675,7 +675,8 @@ KEYFRAMES ANIMATION
     .home {
         width: 100%;
     }
-    
+    .home-content {
+        padding: 20px;
     .social-icons {
         width: 320px;
     }
