@@ -673,7 +673,7 @@ KEYFRAMES ANIMATION
 }
 @media (max-width: 365px) {
     .home {
-        width: 100%;
+        width: 360px;
     }
     .home-content {
         padding: 20px;
