@@ -558,7 +558,7 @@ KEYFRAMES ANIMATION
         font-size: 2.2rem;
     }
     .home-content {
-        width: 100%;
+        width: fit-content;
     }
     .info-box h5{
         font-size: 2.2rem;
