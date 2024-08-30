@@ -672,6 +672,8 @@ KEYFRAMES ANIMATION
     }
 }
 @media (max-width: 365px) {
+    .home {
+        width: 100%;
     .social-icons {
         width: 320px;
     }
